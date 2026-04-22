@@ -1,6 +1,6 @@
 # Top 300 Active Restaurant Whales with Email in San Jose, California, US
 
-> Free BeamStation sample export with 8 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `213464` |
 | Location | San Jose |
 | Category | Restaurants |
-| Full dataset size | 88 records |
-| Free sample size | 8 records (9.09%) |
-| Last export | 2026-04-14T22:43:51.326628+00:00 |
+| Full dataset size | 42 records |
+| Free sample size | 4 records (9.52%) |
+| Last export | 2026-04-22T01:51:06.675714+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-300-active-restaurant-whales-with-email-in-san-jose-california-us-sample-213464/releases/download/sample-latest/beamstation_213464_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
